@@ -1,2 +1,4 @@
 # house-prices-advanced-regression-techniques
-Kaggle competition - House Prices - Advanced Regression Techniques
+Kaggle project House Prices - Advanced Regression Techniques
+
+WORK IN PROGRESS!
